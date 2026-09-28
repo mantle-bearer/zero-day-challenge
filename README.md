@@ -18,3 +18,4 @@ A multi-language software engineering audit. Pushing code daily, exploring core 
 * **[Day 3: Rust Intro & Basics](https://github.com/mantle-bearer/zero-day-challenge/tree/3)** *(Branch: `3`)*
 * **[Day 4: C-Sharp Intro & Basics](https://github.com/mantle-bearer/zero-day-challenge/tree/4)** *(Branch: `4`)*
 * **[Day 5: C Plus Plus Intro & Basics](https://github.com/mantle-bearer/zero-day-challenge/tree/5)** *(Branch: `5`)*
+* **[Day 6: Flutter - Introduction to Dart](https://github.com/mantle-bearer/zero-day-challenge/tree/6)** *(Branch: `6`)*
