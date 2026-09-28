@@ -32,7 +32,6 @@ target/
 *.ear
 
 # --- C# / .NET ---
-bin/
 obj/
 *.user
 *.suo
