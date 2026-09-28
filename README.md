@@ -16,3 +16,5 @@ A multi-language software engineering audit. Pushing code daily, exploring core 
 * **[Day 1: Go Intro & Concurrency Basics](https://github.com/mantle-bearer/zero-day-challenge/tree/1)** *(Branch: `1`)*
 * **[Day 2: Java Intro & Basics](https://github.com/mantle-bearer/zero-day-challenge/tree/2)** *(Branch: `2`)*
 * **[Day 3: Rust Intro & Basics](https://github.com/mantle-bearer/zero-day-challenge/tree/3)** *(Branch: `3`)*
+* **[Day 4: C-Sharp Intro & Basics](https://github.com/mantle-bearer/zero-day-challenge/tree/4)** *(Branch: `4`)*
+* **[Day 5: C Plus Plus Intro & Basics](https://github.com/mantle-bearer/zero-day-challenge/tree/5)** *(Branch: `5`)*
