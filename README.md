@@ -22,3 +22,4 @@ A multi-language software engineering audit. Pushing code daily, exploring core 
 * **[Day 7: Go Syntax](https://github.com/mantle-bearer/zero-day-challenge/tree/7)** *(Branch: `7`)*
 * **[Day 8: Java Syntax](https://github.com/mantle-bearer/zero-day-challenge/tree/8)** *(Branch `8`)*
 * **[Day 9: Rust Syntax](https://github.com/mantle-bearer/zero-day-challenge/tree/9)** *(Branch `9`)*
+* **[Day 10: C-Sharp Syntax](https://github.com/mantle-bearer/zero-day-challenge/tree/10)** *(Branch `10`)*
