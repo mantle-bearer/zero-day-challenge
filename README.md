@@ -25,3 +25,5 @@ A multi-language software engineering audit. Pushing code daily, exploring core 
 * **[Day 10: C-Sharp Syntax](https://github.com/mantle-bearer/zero-day-challenge/tree/10)** *(Branch `10`)*
 * **[Day 11: C-Sharp Syntax](https://github.com/mantle-bearer/zero-day-challenge/tree/11)** *(Branch `11`)*
 * **[Day 12: Flutter (Dart) Syntax](https://github.com/mantle-bearer/zero-day-challenge/tree/12)** *(Branch `12`)*
+* **[Day 13: Go - Variables](https://github.com/mantle-bearer/zero-day-challenge/tree/13)** *(Branch `13`)*
+* **[Day 14: Java - Variables](htps://github.com/mantle-bearer/zero-day-challenge/tree/14)** *(Branch `14`)*
