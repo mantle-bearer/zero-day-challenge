@@ -28,3 +28,4 @@ A multi-language software engineering audit. Pushing code daily, exploring core 
 * **[Day 13: Go - Variables](https://github.com/mantle-bearer/zero-day-challenge/tree/13)** *(Branch `13`)*
 * **[Day 14: Java - Variables](htps://github.com/mantle-bearer/zero-day-challenge/tree/14)** *(Branch `14`)*
 * **[Day 15: Rust - Variables](htps://github.com/mantle-bearer/zero-day-challenge/tree/15)** *(Branch `15`)*
+* **[Day 16: C-Sharp - Variables](htps://github.com/mantle-bearer/zero-day-challenge/tree/16)** *(Branch `16`)*
