@@ -23,9 +23,10 @@ A multi-language software engineering audit. Pushing code daily, exploring core 
 * **[Day 8: Java Syntax](https://github.com/mantle-bearer/zero-day-challenge/tree/8)** *(Branch `8`)*
 * **[Day 9: Rust Syntax](https://github.com/mantle-bearer/zero-day-challenge/tree/9)** *(Branch `9`)*
 * **[Day 10: C-Sharp Syntax](https://github.com/mantle-bearer/zero-day-challenge/tree/10)** *(Branch `10`)*
-* **[Day 11: C-Sharp Syntax](https://github.com/mantle-bearer/zero-day-challenge/tree/11)** *(Branch `11`)*
+* **[Day 11: C Plus Plus Syntax](https://github.com/mantle-bearer/zero-day-challenge/tree/11)** *(Branch `11`)*
 * **[Day 12: Flutter (Dart) Syntax](https://github.com/mantle-bearer/zero-day-challenge/tree/12)** *(Branch `12`)*
 * **[Day 13: Go - Variables](https://github.com/mantle-bearer/zero-day-challenge/tree/13)** *(Branch `13`)*
 * **[Day 14: Java - Variables](htps://github.com/mantle-bearer/zero-day-challenge/tree/14)** *(Branch `14`)*
 * **[Day 15: Rust - Variables](htps://github.com/mantle-bearer/zero-day-challenge/tree/15)** *(Branch `15`)*
 * **[Day 16: C-Sharp - Variables](htps://github.com/mantle-bearer/zero-day-challenge/tree/16)** *(Branch `16`)*
+* **[Day 17: C Plus Plus - Variables](htps://github.com/mantle-bearer/zero-day-challenge/tree/17)** *(Branch `17`)*
