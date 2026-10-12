@@ -30,3 +30,4 @@ A multi-language software engineering audit. Pushing code daily, exploring core 
 * **[Day 15: Rust - Variables](htps://github.com/mantle-bearer/zero-day-challenge/tree/15)** *(Branch `15`)*
 * **[Day 16: C-Sharp - Variables](htps://github.com/mantle-bearer/zero-day-challenge/tree/16)** *(Branch `16`)*
 * **[Day 17: C Plus Plus - Variables](htps://github.com/mantle-bearer/zero-day-challenge/tree/17)** *(Branch `17`)*
+* **[Day 18: Flutter (Dart) - Variables](htps://github.com/mantle-bearer/zero-day-challenge/tree/18)** *(Branch `18`)*
